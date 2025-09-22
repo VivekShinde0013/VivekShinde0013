@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;CSE+Student)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=FF5733&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Turning+Data+into+Intelligence;AI+for+Human+Progress" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <!--
 **VivekShinde0013/VivekShinde0013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
