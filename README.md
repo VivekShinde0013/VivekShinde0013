@@ -26,7 +26,7 @@
 </p>
 
 
-🔗 Portfolio: https://your-domain-or-github-pages
+🔗 Portfolio: [https://your-domain-or-github-pages](https://github.com/VivekShinde0013?tab=repositories)
 📫 Reach me: vivekshinde061@gmail.com
 
 
